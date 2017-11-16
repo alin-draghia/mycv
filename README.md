@@ -11,5 +11,6 @@ As classifier I've implemented a variant of random forrest with bagging.
 Also, I've experimented with static polimorfism via template metaprogramming
 
 
-![features](mycv/docs/mycv_features.jpg)
-![detection](mycv/docs/mycv_detection.jpg)
+![features](/docs/mycv_features.jpg?raw=true "Learned Features")
+
+![detection](/docs/mycv_detection.jpg?raw=true "Detection Result")
